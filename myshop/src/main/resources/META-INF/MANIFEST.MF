@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Users/sergey/IdeaProjects/myshop_sql/myshop/target/classe
+ s/myshop/
+Main-Class: myshop.ShopApplication
+
